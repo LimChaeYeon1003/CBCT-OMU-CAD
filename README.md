@@ -96,12 +96,6 @@ AUC-ROC result
 
 ---
 
-# Acknowledgements
-
-thanks to liutianlin0121 for sharing the denoising MUSC code.
-
-MUSC github: https://github.com/liutianlin0121/musc
-
 ```
 @article{kim2023enhanced,
   title={Enhanced artificial intelligence-based diagnosis using CBCT with internal denoising: clinical validation for discrimination of fungal ball, sinusitis, and normal cases in the maxillary sinus},
@@ -113,3 +107,10 @@ MUSC github: https://github.com/liutianlin0121/musc
   publisher={Elsevier}
 }
 ```
+---
+
+# Acknowledgements
+
+thanks to liutianlin0121 for sharing the denoising MUSC code.
+
+MUSC github: https://github.com/liutianlin0121/musc
