@@ -102,7 +102,7 @@ thanks to liutianlin0121 for sharing the denoising MUSC code.
 
 MUSC github: https://github.com/liutianlin0121/musc
 
-//```python
+```
 @article{kim2023enhanced,
   title={Enhanced artificial intelligence-based diagnosis using CBCT with internal denoising: clinical validation for discrimination of fungal ball, sinusitis, and normal cases in the maxillary sinus},
   author={Kim, Kyungsu and Lim, Chae Yeon and Shin, Joongbo and Chung, Myung Jin and Jung, Yong Gi},
@@ -112,4 +112,4 @@ MUSC github: https://github.com/liutianlin0121/musc
   year={2023},
   publisher={Elsevier}
 }
-
+```
